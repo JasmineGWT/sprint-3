@@ -4,7 +4,7 @@ The websites goes from having some elements organized in a horizontal way to hav
 
 Skeleton is a mobile first designed website. This means that it set up the way in which it would look on a phone, in this case something 550px or less. Media queries are then used to adjust the sites elements to better suit screens with a higher resolution. 
 
-For example:
+For example, if we take padding in .section and see how it is adjusted to better suit different resolutions:
 
 In the main part of the CSS you can see this
 
